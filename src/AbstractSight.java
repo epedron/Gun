@@ -6,5 +6,6 @@ public abstract class AbstractSight implements Accessories {
     @Override
     public void Sight() {
 
+
     }
 }
